@@ -38,11 +38,6 @@ runtimeOnly 'com.h2database:h2'
 ./gradlew bootRun
 ```
 
-> 실행 후 Swagger 접속:  
-> [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
----
-
 ## 🧪 실험 API
 
 | Method | Endpoint     | 설명 |
